@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboMart.Web", "GloboMart.Web\GloboMart.Web.csproj", "{0A23CEEE-21B2-4033-9E51-F97CA35AB8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboMart.Web.Tests", "GloboMart.Web.Tests\GloboMart.Web.Tests.csproj", "{24E913DD-5088-4C2A-AC09-8CEBC35CC6F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboMart.Model", "GloboMart.Model\GloboMart.Model.csproj", "{375304AB-C4EA-410A-BD62-3801514634BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboMart.Data", "GloboMart.Data\GloboMart.Data.csproj", "{B814EA2E-DFD2-426D-9AC7-6232044656BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboMart.APIService", "GloboMart.Service\GloboMart.APIService.csproj", "{13E77015-FDBF-4E6B-B424-3D4A8BCF84B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboMart.BusinessService", "GloboMart.BusinessService\GloboMart.BusinessService.csproj", "{A4A5C583-2BDB-4BAE-B233-CA57943F5700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A23CEEE-21B2-4033-9E51-F97CA35AB8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A23CEEE-21B2-4033-9E51-F97CA35AB8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A23CEEE-21B2-4033-9E51-F97CA35AB8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A23CEEE-21B2-4033-9E51-F97CA35AB8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E913DD-5088-4C2A-AC09-8CEBC35CC6F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E913DD-5088-4C2A-AC09-8CEBC35CC6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E913DD-5088-4C2A-AC09-8CEBC35CC6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E913DD-5088-4C2A-AC09-8CEBC35CC6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375304AB-C4EA-410A-BD62-3801514634BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375304AB-C4EA-410A-BD62-3801514634BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375304AB-C4EA-410A-BD62-3801514634BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375304AB-C4EA-410A-BD62-3801514634BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B814EA2E-DFD2-426D-9AC7-6232044656BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B814EA2E-DFD2-426D-9AC7-6232044656BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B814EA2E-DFD2-426D-9AC7-6232044656BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B814EA2E-DFD2-426D-9AC7-6232044656BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E77015-FDBF-4E6B-B424-3D4A8BCF84B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E77015-FDBF-4E6B-B424-3D4A8BCF84B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E77015-FDBF-4E6B-B424-3D4A8BCF84B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E77015-FDBF-4E6B-B424-3D4A8BCF84B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A5C583-2BDB-4BAE-B233-CA57943F5700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A5C583-2BDB-4BAE-B233-CA57943F5700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A5C583-2BDB-4BAE-B233-CA57943F5700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A5C583-2BDB-4BAE-B233-CA57943F5700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
